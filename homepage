@@ -6,8 +6,9 @@
   </head>
   
   <body>
-    <img src="fag_flag.jpg">
-   <br> <a href="javascripts.html"><img src="javascripts button.png"> </a>   <a href="about.html"><img src="about me buttoppn.png"> </a>
+    <img src="fagflag.jpg">
+    <br> <h1>Are You Gay?</h1>
+   <br> <a href="congradulations.html"><img src="No.png"> </a>   <a href="about.html"><img src="about me buttoppn.png"> </a>
     <h1>Welcome to my Programming Portfolio</h1>
     This page will be my portfolio throughout my time in the CSC106 course.
    </body>
